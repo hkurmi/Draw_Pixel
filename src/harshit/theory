@@ -1,0 +1,6 @@
+IN this program Case is class which contains all information about case of A computer.
+And also Monitor, Motherboard contains information about them.
+ANd Dimensions class contain information about dimension.that we have used in Case
+And Resolution class contains information about resolution. That we have used in monitor.
+
+
